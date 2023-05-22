@@ -1,0 +1,8 @@
+Para ejecutar correctamente la aplicación por favor siga los siguientes pasos:
+
+1. Descargue e instale xampp.
+2. Cargue la base de datos que se encuentra en la carpeta DB, en el archivo ChronosDB.sql
+3. Dar doble clic al archivo Chronos-1.0-win64.msi
+4. Dar siguiente y aceptar cuando lo solicite.
+5. Esperar a que termine el proceso (hay momentos que el proceso no avance, hay que esperar).
+6. Los archivos exportados de excel, se alojan en el siguiente directorio C:\Users\Prueba\AppData\Local\Programs\Chronos
